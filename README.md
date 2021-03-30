@@ -1,7 +1,7 @@
 # eratosthenes
 How did eratosthenes measure the circumference of the earth?
 
-[https://www.youtube.com/watch?v=Mw30CgaXiQw](https://www.youtube.com/watch?v=Mw30CgaXiQw)
+[Business Insider's Explanation of Eratosthenes Project](https://www.youtube.com/watch?v=Mw30CgaXiQw)
 
 [Carl Sagan's Splendid Explanation of Eratosthenes Project](https://www.youtube.com/watch?v=G8cbIWMv0rI)
 
